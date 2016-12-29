@@ -1,0 +1,18 @@
+c:\users\marcel\documents\visual studio 2010\Projects\audioval\audioval\bin\Debug\audioval.exe
+c:\users\marcel\documents\visual studio 2010\Projects\audioval\audioval\bin\Debug\audioval.pdb
+c:\users\marcel\documents\visual studio 2010\Projects\audioval\audioval\obj\x86\Debug\audioval.csprojResolveAssemblyReference.cache
+c:\users\marcel\documents\visual studio 2010\Projects\audioval\audioval\obj\x86\Debug\audioval.Form1.resources
+c:\users\marcel\documents\visual studio 2010\Projects\audioval\audioval\obj\x86\Debug\audioval.Properties.Resources.resources
+c:\users\marcel\documents\visual studio 2010\Projects\audioval\audioval\obj\x86\Debug\audioval.csproj.GenerateResource.Cache
+c:\users\marcel\documents\visual studio 2010\Projects\audioval\audioval\obj\x86\Debug\audioval.exe
+c:\users\marcel\documents\visual studio 2010\Projects\audioval\audioval\obj\x86\Debug\audioval.pdb
+C:\Users\marcel\documents\visual studio 2010\Projects\audioval\audioval\bin\Debug\NAudio.dll
+C:\Users\marcel\documents\visual studio 2010\Projects\audioval\audioval\bin\Debug\NAudio.xml
+C:\Users\marcel\Google Drive\Entwicklung\audioval\audioval\obj\x86\Debug\audioval.exe
+C:\Users\marcel\Google Drive\Entwicklung\audioval\audioval\obj\x86\Debug\audioval.pdb
+C:\Users\marcel\Google Drive\Entwicklung\audioval\audioval\bin\Debug\audioval.exe
+C:\Users\marcel\Google Drive\Entwicklung\audioval\audioval\bin\Debug\audioval.pdb
+C:\Users\marcel\Google Drive\Entwicklung\audioval\audioval\obj\x86\Debug\audioval.Form1.resources
+C:\Users\marcel\Google Drive\Entwicklung\audioval\audioval\obj\x86\Debug\audioval.Properties.Resources.resources
+C:\Users\marcel\Google Drive\Entwicklung\audioval\audioval\obj\x86\Debug\audioval.csprojResolveAssemblyReference.cache
+C:\Users\marcel\Google Drive\Entwicklung\audioval\audioval\obj\x86\Debug\audioval.csproj.GenerateResource.Cache
